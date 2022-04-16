@@ -75,7 +75,7 @@ def get_readable_time(seconds: int) -> str:
 YUMEKO_IMG = "https://telegra.ph/file/e0040466048302df1a451.mp4"
 
 PM_START_TEXT = """
-**Hey I am Komi** [ㅤ](https://telegra.ph/file/6643b0fb6792b2e5e844a.mp4)
+**Hey I am Komi** [ㅤ](https://telegra.ph/file/e627baf23c5cd3e0cff73.mp4)
 ️➖➖➖➖➖➖➖➖➖➖➖➖➖
 **×I'm a Powerfull Group Manager Bot With Cool Modules. feel free to add me to your groups!**
 ️  ×Status: [Fine](https://t.me/komisansupport) 
@@ -95,12 +95,12 @@ buttons = [
 
 
 HELP_STRINGS = """
-**Main commands:**  [ㅤ](https://telegra.ph/file/efdee100cc31b4b3e0be2.mp4)
+**Main commands:**  [ㅤ](https://telegra.ph/file/9e837fc7d50b5241124e4.jpg)
 ❂ /start: Starts me! You've probably already used this.
 ❂ /help: Sends this message; I'll tell you more about myself.
 
 All commands can either be used with / or !.
-If you want to report any bugs or need any help with setting up Yumeko, reach us at here"""
+If you want to report any bugs or need any help with setting up Komi, reach us at [here](https://t.me/Komisansupport)"""
 
 
 
